@@ -37,10 +37,10 @@ Somos a equipe de desenvolvimento da **PAMC**. Construímos as ferramentas que d
 <a href="https://github.com/Pvittor-Dev"><sub>@Pvittor-Dev</sub></a>
 </td>
 <td align="center" width="25%">
-<a href="https://github.com/paulovinicio-ponto"><img src="https://github.com/paulovinicio-ponto.png" width="96" alt="Paulo Vinicius"/></a><br/>
+<a href="https://github.com/paulovinicius-dot"><img src="https://github.com/paulovinicius-dot.png" width="96" alt="Paulo Vinicius"/></a><br/>
 <b>Paulo Vinicius</b><br/>
 <sub>TI e desenvolvimento</sub><br/>
-<a href="https://github.com/paulovinicio-ponto"><sub>@paulovinicio-ponto</sub></a>
+<a href="https://github.com/paulovinicius-dot"><sub>@paulovinicius-dot</sub></a>
 </td>
 </tr>
 </table>
