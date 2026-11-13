@@ -14,6 +14,37 @@
 
 Somos a equipe de desenvolvimento da **PAMC**. Construímos as ferramentas que deixam a rotina comercial mais rápida, organizada e confiável: menos trabalho manual, mais informação na mão de quem decide.
 
+## 👥 Nosso time
+
+<table>
+<tr>
+<td align="center" width="25%">
+<a href="https://github.com/victorhugofcaetano"><img src="https://github.com/victorhugofcaetano.png" width="96" alt="Victor Hugo"/></a><br/>
+<b>Victor Hugo</b><br/>
+<sub>Tech Lead e desenvolvedor</sub><br/>
+<a href="https://github.com/victorhugofcaetano"><sub>@victorhugofcaetano</sub></a>
+</td>
+<td align="center" width="25%">
+<a href="https://github.com/luizzonato"><img src="https://github.com/luizzonato.png" width="96" alt="Luiz Zonato"/></a><br/>
+<b>Luiz Zonato</b><br/>
+<sub>Product Owner</sub><br/>
+<a href="https://github.com/luizzonato"><sub>@luizzonato</sub></a>
+</td>
+<td align="center" width="25%">
+<a href="https://github.com/Pvittor-Dev"><img src="https://github.com/Pvittor-Dev.png" width="96" alt="Paulo Victor"/></a><br/>
+<b>Paulo Victor</b><br/>
+<sub>TI e desenvolvimento</sub><br/>
+<a href="https://github.com/Pvittor-Dev"><sub>@Pvittor-Dev</sub></a>
+</td>
+<td align="center" width="25%">
+<a href="https://github.com/paulovinicio-ponto"><img src="https://github.com/paulovinicio-ponto.png" width="96" alt="Paulo Vinicius"/></a><br/>
+<b>Paulo Vinicius</b><br/>
+<sub>TI e desenvolvimento</sub><br/>
+<a href="https://github.com/paulovinicio-ponto"><sub>@paulovinicio-ponto</sub></a>
+</td>
+</tr>
+</table>
+
 ## 🧩 No que trabalhamos
 
 | Área | O que fazemos |
